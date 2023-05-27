@@ -1,2 +1,1 @@
-# quantum-gates
- 
+# Quantum Gates
