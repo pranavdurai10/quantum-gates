@@ -10,7 +10,7 @@ This repository contains a collection of Qiskit implementations for the fundamen
 The repository currently includes implementations of the following gates:
 
 1. Pauli gates: Pauli-X, Pauli-Y, and Pauli-Z gates [DONE]
-2. Hadamard gate [ON-GOING]
+2. Hadamard gate [DONE]
 3. Controlled-NOT (CNOT) gate [YET-TO-IMPLEMENT]
 4. SWAP gate [YET-TO-IMPLEMENT]
 5. Toffoli gate [YET-TO-IMPLEMENT]
