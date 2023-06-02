@@ -13,7 +13,7 @@ The repository currently includes implementations of the following gates:
 2. Hadamard gate [DONE]
 3. Controlled-NOT (CNOT) gate [DONE]
 4. SWAP gate [DONE]
-5. Toffoli gate [YET-TO-IMPLEMENT]
+5. Toffoli gate [DONE]
 6. Controlled-phase gates: Controlled-Z (CZ) gate, Controlled-S (CS) gate, Controlled-T (CT) gate [YET-TO-IMPLEMENT]
 7. U gates: U1, U2, U3 gates for arbitrary unitary operations [YET-TO-IMPLEMENT]
 
