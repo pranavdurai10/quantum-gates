@@ -1,4 +1,4 @@
-# Quantum Gate Implementations using Qiskit
+# Quantum Gates using Qiskit
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
