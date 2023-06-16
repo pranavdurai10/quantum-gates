@@ -15,7 +15,7 @@ The repository currently includes implementations of the following gates:
 4. SWAP gate [DONE]
 5. Toffoli gate [DONE]
 6. Controlled-phase gates: Controlled-Z (CZ) gate, Controlled-T (CT) gate [DONE]
-7. U gates: U1, U2, U3 gates for arbitrary unitary operations [YET-TO-IMPLEMENT]
+7. U gates: U1, U2, U3 gates for arbitrary unitary operations [ON-GOING]
 
 ## Contributions
 Contributions to this repository are welcome! If you have additional implementations of quantum gates or improvements to the existing ones, feel free to submit a pull request. Together, we can expand this collection of gate implementations and enhance its usefulness to the quantum computing community.
