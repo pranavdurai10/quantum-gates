@@ -9,13 +9,13 @@ This repository contains a collection of Qiskit implementations for the fundamen
 ## Contents
 The repository currently includes implementations of the following gates:
 
-1. Pauli gates: Pauli-X, Pauli-Y, and Pauli-Z gates [DONE]
-2. Hadamard gate [DONE]
-3. Controlled-NOT (CNOT) gate [DONE]
-4. SWAP gate [DONE]
-5. Toffoli gate [DONE]
-6. Controlled-phase gates: Controlled-Z (CZ) gate, Controlled-T (CT) gate [DONE]
-7. U gates: U1, U2, U3 gates for arbitrary unitary operations [ON-GOING]
+1. Pauli gates: Pauli-X, Pauli-Y, and Pauli-Z gates 
+2. Hadamard gate 
+3. Controlled-NOT (CNOT) gate 
+4. SWAP gate
+5. Toffoli gate 
+6. Controlled-phase gates: Controlled-Z (CZ) gate, Controlled-T (CT) gate
+7. U gates: U1, U2, U3 gates for arbitrary unitary operations 
 
 ## Contributions
 Contributions to this repository are welcome! If you have additional implementations of quantum gates or improvements to the existing ones, feel free to submit a pull request. Together, we can expand this collection of gate implementations and enhance its usefulness to the quantum computing community.
