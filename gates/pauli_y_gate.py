@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 28.05.2023 @ 20:22:15
+Code written by Pranav Durai for Quantum Computer on 28.05.2023 @ 20:22:15
 
 Component: Pauli-Y-Gate (bit-flip-gate)
 

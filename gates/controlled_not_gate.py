@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 31.05.2023 @ 21:26:45
+Code written by Pranav Durai for Quantum Computer on 31.05.2023 @ 21:26:45
 
 Component: Controlled-NOT Gate (CNOT) 
 

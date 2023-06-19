@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 30.05.2023 @ 22:30:05
+Code written by Pranav Durai for Quantum Computer on 30.05.2023 @ 22:30:05
 
 Component: Hadamard Gate
 

@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 05.06.2023 @ 20:25:12
+Code written by Pranav Durai for Quantum Computer on 05.06.2023 @ 20:25:12
 
 Component: Controlled-Z Gate
 

@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 02.06.2023 @ 21:34:23
+Code written by Pranav Durai for Quantum Computer on 02.06.2023 @ 21:34:23
 
 Component: Toffoli Gate
 

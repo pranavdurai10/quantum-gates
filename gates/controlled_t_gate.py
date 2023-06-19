@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 11.06.2023 @ 18:00:01
+Code written by Pranav Durai for Quantum Computer on 11.06.2023 @ 18:00:01
 
 Component: Controlled-T Gate
 

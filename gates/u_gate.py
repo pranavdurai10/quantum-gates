@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 18.06.2023 @ 22:29:12
+Code written by Pranav Durai for Quantum Computer on 18.06.2023 @ 22:29:12
 
 Component: U1, U2, U3 Gates
 

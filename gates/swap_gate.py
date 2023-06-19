@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 01.06.2023 @ 22:19:42
+Code written by Pranav Durai for Quantum Computer on 01.06.2023 @ 22:19:42
 
 Component: Swap Gate
 

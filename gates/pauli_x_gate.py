@@ -1,6 +1,6 @@
 '''
 ///////////////////////////////////////////////////////////////////////////
-Code written by Pranav Durai for Quantum Computers on 27.05.2023 @ 22:41:54
+Code written by Pranav Durai for Quantum Computer on 27.05.2023 @ 22:41:54
 
 Component: Pauli-X-Gate (bit-flip-gate)
 
