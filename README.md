@@ -1,7 +1,5 @@
 # Quantum Gates using Qiskit
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Description
 
 This repository contains a collection of Qiskit implementations for the fundamental gates used in quantum computing. It serves as a valuable resource for anyone interested in understanding and working with quantum gates, enabling them to explore the foundational building blocks of quantum algorithms.
