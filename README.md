@@ -21,7 +21,7 @@ The repository currently includes implementations of the following gates:
 Contributions to this repository are welcome! If you have additional implementations of quantum gates or improvements to the existing ones, feel free to submit a pull request. Together, we can expand this collection of gate implementations and enhance its usefulness to the quantum computing community.
 
 ## License
-This repository is licensed under the MIT License, allowing you to freely use and modify the code.
+This repository is licensed under the Apache 2.0 License. 
 
 ## Acknowledgments
 This project is inspired by the exciting field of quantum computing and the vibrant Qiskit community. It is important to acknowledge the contributions of the Qiskit developers and the broader quantum computing community for their invaluable resources and support.
